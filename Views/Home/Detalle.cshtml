@@ -1,0 +1,10 @@
+﻿@model Tarea1.Models.Producto
+@{
+    ViewBag.Title = "Detalle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Detalle de Productos</h2>
+<h3>Código: @Model.id</h3>
+<h3>Nombre: @Model.Nombre</h3>
+<h3>Detalle: @Model.Descripcion</h3>
+<h3>Precio: @Model.Precio</h3>

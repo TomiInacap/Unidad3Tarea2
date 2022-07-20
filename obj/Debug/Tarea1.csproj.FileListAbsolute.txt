@@ -1,0 +1,366 @@
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Tarea1.dll.config
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Tarea1.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Tarea1.pdb
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\csc.exe
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\csc.exe.config
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\csc.rsp
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\csi.exe
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\csi.exe.config
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\csi.rsp
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.AppContext.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Console.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.IO.Compression.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Net.Http.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.ValueTuple.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\vbc.exe
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\vbc.exe.config
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\vbc.rsp
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\VBCSCompiler.exe
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Antlr3.Runtime.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Newtonsoft.Json.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Helpers.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Mvc.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Optimization.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Razor.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.WebPages.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.WebPages.Razor.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\WebGrease.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Helpers.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Mvc.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Optimization.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.Razor.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.WebPages.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\System.Web.WebPages.Razor.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Newtonsoft.Json.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Antlr3.Runtime.pdb
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\es\System.Web.Razor.resources.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\obj\Debug\Tarea1.csproj.CopyComplete
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\obj\Debug\Tarea1.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\obj\Debug\Tarea1.pdb
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\EntityFramework.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\EntityFramework.SqlServer.dll
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\EntityFramework.xml
+C:\Users\laboratorio\source\repos\Tarea1Inacap\Tarea1\bin\EntityFramework.SqlServer.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Tarea1.dll.config
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Tarea1.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Tarea1.pdb
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\csc.exe
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\csc.exe.config
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\csc.rsp
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\csi.exe
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\csi.exe.config
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\csi.rsp
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.AppContext.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Console.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.IO.Compression.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Net.Http.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Net.Sockets.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.ValueTuple.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\vbc.exe
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\vbc.exe.config
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\vbc.rsp
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\VBCSCompiler.exe
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Antlr3.Runtime.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\EntityFramework.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\EntityFramework.SqlServer.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Newtonsoft.Json.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Helpers.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Mvc.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Optimization.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Razor.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.WebPages.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.WebPages.Razor.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\WebGrease.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\EntityFramework.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\EntityFramework.SqlServer.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Helpers.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Mvc.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Optimization.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.Razor.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.WebPages.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\System.Web.WebPages.Razor.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Newtonsoft.Json.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Antlr3.Runtime.pdb
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\es\System.Web.Helpers.resources.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\es\System.Web.Mvc.resources.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\es\System.Web.Optimization.resources.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\es\System.Web.Razor.resources.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\es\System.Web.WebPages.resources.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.csproj.CopyComplete
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\obj\Debug\Tarea1.pdb
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\ImageResizer.dll
+C:\Users\laboratorio\Desktop\Tarea1\Tarea1\bin\ImageResizer.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Tarea1.dll.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Tarea1.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Tarea1.pdb
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\csc.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\csc.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\csc.rsp
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\csi.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\csi.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\csi.rsp
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.AppContext.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Console.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.IO.Compression.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Net.Http.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.ValueTuple.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\vbc.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\vbc.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\vbc.rsp
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\VBCSCompiler.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Antlr3.Runtime.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\EntityFramework.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\EntityFramework.SqlServer.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\ImageResizer.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Newtonsoft.Json.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Helpers.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Mvc.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Optimization.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Razor.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.WebPages.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.WebPages.Razor.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\WebGrease.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\EntityFramework.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\EntityFramework.SqlServer.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\ImageResizer.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Helpers.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Mvc.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Optimization.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.Razor.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.WebPages.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\System.Web.WebPages.Razor.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Newtonsoft.Json.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Antlr3.Runtime.pdb
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\es\System.Web.Helpers.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\es\System.Web.Mvc.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\es\System.Web.Optimization.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\es\System.Web.Razor.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\es\System.Web.WebPages.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\obj\Debug\Tarea1.csproj.CopyComplete
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\obj\Debug\Tarea1.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Tarea1Inacap-main\Tarea1\obj\Debug\Tarea1.pdb
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Tarea1.dll.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Tarea1.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Tarea1.pdb
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\csc.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\csc.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\csc.rsp
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\csi.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\csi.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\csi.rsp
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.AppContext.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Console.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.IO.Compression.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Net.Http.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.ValueTuple.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\vbc.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\vbc.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\vbc.rsp
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\VBCSCompiler.exe
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Antlr3.Runtime.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\EntityFramework.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\EntityFramework.SqlServer.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\ImageResizer.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Newtonsoft.Json.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Helpers.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Mvc.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Optimization.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Razor.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.WebPages.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.WebPages.Razor.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\WebGrease.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\EntityFramework.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\EntityFramework.SqlServer.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\ImageResizer.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Helpers.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Mvc.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Optimization.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.Razor.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.WebPages.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\System.Web.WebPages.Razor.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Newtonsoft.Json.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Antlr3.Runtime.pdb
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\es\System.Web.Helpers.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\es\System.Web.Mvc.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\es\System.Web.Optimization.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\es\System.Web.Razor.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\es\System.Web.WebPages.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\obj\Debug\Tarea1.csproj.AssemblyReference.cache
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\obj\Debug\Tarea1.csproj.CopyComplete
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\obj\Debug\Tarea1.dll
+D:\Documents\5to Informatica\Programación Avanzada de Aplicaciones\Proyectos VSC 2022\Unidad3Tarea2\obj\Debug\Tarea1.pdb

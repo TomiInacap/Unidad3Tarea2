@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Tarea1.Models.Producto>
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="container">
+    <h1 class="my-4">
+        Productos en la página
+        <small>Listado de productos</small>
+    </h1>
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-lg-4 col-sm-6 mb-4">
+                <div class="card h-100">
+                    <a href="#"></a>
+                    <div class="card-body">
+                        <h4 class="card-title">
+                            <a href="#">@item.Nombre</a>
+                        </h4>
+                        <p class="card-text">
+                            @if (item.imagen != null)
+                            {
+                                <img src="~/Content/img/@item.imagen" width="200" />
+                            }
+                            else
+                            {
+                                <img src="~/Content/img/default.jpg" width="200" />
+                            }
+                            <br />
+                            @item.Descripcion
+                            <br />
+                            Precio: $@item.Precio
+                        </p>
+                        <p>@Html.ActionLink("Ver más", "Detalle/" + item.id, "Home")</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
